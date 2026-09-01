@@ -1,0 +1,7 @@
+interface:
+  display_name: "原比例图片复刻可编辑PPT"
+  short_description: "按源图原始比例高保真复刻为可编辑PowerPoint演示文稿"
+  default_prompt: "Use $pixel-perfect-editable-ppt to reproduce the supplied image at its original aspect ratio as a highly faithful editable PowerPoint."
+
+policy:
+  allow_implicit_invocation: true
